@@ -1,28 +1,31 @@
-print("=================Student Management System============")
-print("1.Add Student")
-print("2.View Student")
-print("3.Search Student")
-print("4.Update Student")
-print("5.Delete Student")
-print("6.Exit")
-choice =int(input("Enter your choice:"))
-if choice == 1:
-    print("Add Student Selected")
+# Student Grade Calculator
 
-elif choice == 2:
-    print("View Student Selected")
+## Description
+This is a simple Python project that calculates a student's total marks, average, highest mark, lowest mark, and grade based on marks entered for five subjects.
 
-elif choice == 3:
-    print("Search Student Selected")
+## Features
+- Accepts marks for 5 subjects
+- Calculates total marks
+- Calculates average marks
+- Finds highest and lowest marks
+- Displays grade based on average
+- Shows a performance message
 
-elif choice == 4:
-    print("Update Student Selected")
+## Technologies Used
+- Python 3
 
-elif choice == 5:
-    print("Delete Student Selected")
+## Concepts Used
+- Variables
+- Lists
+- Loops
+- Conditional Statements
+- Built-in Functions
 
-elif choice == 6:
-    print("Thank You!")
+## How to Run
 
-else:
-    print("Invalid Choice")
+```bash
+py student_grade_calculator.py
+```
+
+## Author
+Gopikrishna C
