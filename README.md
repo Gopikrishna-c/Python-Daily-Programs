@@ -1,31 +1,29 @@
-# Student Grade Calculator
+# Employee Salary Management System
 
 ## Description
-This is a simple Python project that calculates a student's total marks, average, highest mark, lowest mark, and grade based on marks entered for five subjects.
+
+A simple Python project that calculates an employee's HRA, DA, PF, and Net Salary based on the basic salary entered by the user.
 
 ## Features
-- Accepts marks for 5 subjects
-- Calculates total marks
-- Calculates average marks
-- Finds highest and lowest marks
-- Displays grade based on average
-- Shows a performance message
 
-## Technologies Used
-- Python 3
+- Employee Name Input
+- Employee ID Input
+- Basic Salary Input
+- HRA Calculation
+- DA Calculation
+- PF Calculation
+- Net Salary Calculation
 
-## Concepts Used
-- Variables
-- Lists
-- Loops
-- Conditional Statements
-- Built-in Functions
+## Technology
+
+- Python
 
 ## How to Run
 
 ```bash
-py student_grade_calculator.py
+py employee_salary.py
 ```
 
 ## Author
-Gopikrishna C
+
+**Gopikrishna C**
