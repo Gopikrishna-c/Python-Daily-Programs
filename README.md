@@ -1,27 +1,32 @@
-# Employee Salary Management System
+# ATM Banking System
 
 ## Description
 
-A simple Python project that calculates an employee's HRA, DA, PF, and Net Salary based on the basic salary entered by the user.
+A simple Python project that simulates an ATM Banking System. Users can check their balance, deposit money, withdraw money, and exit the application.
 
 ## Features
 
-- Employee Name Input
-- Employee ID Input
-- Basic Salary Input
-- HRA Calculation
-- DA Calculation
-- PF Calculation
-- Net Salary Calculation
+- Check Balance
+- Deposit Money
+- Withdraw Money
+- Exit
 
 ## Technology
 
 - Python
 
+## Concepts Used
+
+- Variables
+- User Input
+- While Loop
+- If-Else Statements
+- Arithmetic Operators
+
 ## How to Run
 
 ```bash
-py employee_salary.py
+py atm_banking_system.py
 ```
 
 ## Author
