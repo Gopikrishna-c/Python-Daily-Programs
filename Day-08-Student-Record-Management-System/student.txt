@@ -1,0 +1,5 @@
+Name: Gopi, Age: 22, Course: Python
+Name: Rahul, Age: 21, Course: Java
+Name: Priya, Age: 20, Course: Data Science
+Name: Karthik, Age: 23, Course: Machine Learning
+Name: Divya, Age: 22, Course: FastAPI
